@@ -22,6 +22,7 @@ a {
     color: magenta;
     text-decoration: none;
     font-size: 24px;
+    font-family: 'Ultra', serif;
 
 }
 
@@ -29,7 +30,7 @@ a {
 .buttons {
     width: 30px;
     height: 150px;
-    background-color: rgba(255,0,255,0.5);
+    background-color: rgba(38, 0, 200, 0.5);
     
 }
 
